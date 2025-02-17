@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ae as o}from"./chunks/framework.a0lWT1vU.js";const f=JSON.parse('{"title":"捏阿巴的面试空间","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function s(h,e,_,d,l,c){return r(),t("div",null,e[0]||(e[0]=[o("",3)]))}const p=a(n,[["render",s]]);export{f as __pageData,p as default};
